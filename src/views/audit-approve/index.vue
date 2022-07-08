@@ -1,5 +1,5 @@
 <template>
-  <div>123</div>
+  <div>审批管理</div>
 </template>
 
 <script setup></script>
